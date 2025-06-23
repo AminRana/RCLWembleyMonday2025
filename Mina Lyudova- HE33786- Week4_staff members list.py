@@ -1,4 +1,4 @@
-# example1/Week 5/ a,b,c,d
+# example1/Week 4/ a,b,c,d
 #Create a 4D list and print it with tabular form, then add your name,
 #age, gender and department as a new staff and print
 the list again
