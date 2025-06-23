@@ -1,4 +1,4 @@
-# Week5/A) Write a program to create a 3D list over a week’s weather information
+# Week4/A) Write a program to create a 3D list over a week’s weather information
 #(e.g., day name (Sunday, Monday, Tuesday, etc), temperature (e.g., 5, 12, 7, 8, etc)
 #and outlook of the day(Fogy, Sunny, Cloudy, Cloudy, etc) and use enumerate()
 #function with it, and add a new record with the existing list, print it, and delete a
